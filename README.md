@@ -19,7 +19,7 @@ Atualmente, estou focado em adquirir uma base sólida em programação para, no 
 Estou em constante aprendizado. Aqui estão as tecnologias que estou explorando:
 
 -   **Linguagens de Programação:**
-    -   `Python`
+    -   `Python (iniciante)`
 -   **Ferramentas:**
     -   `Git`
     -   `GitHub`
