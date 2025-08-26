@@ -1,5 +1,6 @@
 ## Hi there 👋
 <div align="center">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwemYxNG81YmhpeTg5YW8wZGtrZDhia3k1N2U3NThwbmhsN2o0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GY6Zmupsc3ilQbsjbL/giphy.gif" width="100"/>
   <h1>Olá, Mundo! Eu sou o Caio Gabriel 👋</h1>
 </div>
 
